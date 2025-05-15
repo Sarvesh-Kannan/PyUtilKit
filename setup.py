@@ -25,7 +25,7 @@ setup(
     long_description=long_description,
     long_description_content_type='text/markdown',
     author='Sarvesh Kannan',
-    author_email='your.email@example.com',  # Replace with your email
+    author_email='sarveshkannan30@gmail.com',
     url='https://github.com/Sarvesh-Kannan/PyUtilKit',
     packages=find_packages(),
     classifiers=[
