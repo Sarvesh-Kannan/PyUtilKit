@@ -146,6 +146,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📬 Contact
 
-Sarvesh Kannan - [your.email@example.com](mailto:your.email@example.com)
+Sarvesh Kannan - [your.email@example.com](mailto:sarveshkannan30@gmail.com)
 
 Project Link: [https://github.com/Sarvesh-Kannan/PyUtilKit](https://github.com/Sarvesh-Kannan/PyUtilKit) 
