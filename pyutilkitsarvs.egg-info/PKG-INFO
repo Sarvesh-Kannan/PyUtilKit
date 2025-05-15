@@ -1,0 +1,52 @@
+Metadata-Version: 2.4
+Name: pyutilkitsarvs
+Version: 0.1.0
+Summary: A multi-purpose Python utility package
+Home-page: https://github.com/yourusername/pyutilkit
+Author: Your Name
+Author-email: sarveshkannan30@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-python
+Dynamic: summary
+
+# PyUtilKit
+
+A multi-purpose Python utility package that provides useful functions for string manipulation, file operations, mathematical calculations, and list processing.
+
+## Features
+
+- **String Utilities**: Functions for case conversion, string manipulation, and validation
+- **File Utilities**: Functions for file I/O, metadata, and management
+- **Math Utilities**: Functions for arithmetic, statistics, and number theory
+- **List Utilities**: Functions for list manipulation, analysis, and transformation
+
+## Installation
+
+```bash
+pip install pyutilkit-sarvs
+```
+
+## Usage
+
+```python
+# Import the string utilities
+from pyutilkit.string_utils import to_snake_case
+
+# Convert a string to snake case
+result = to_snake_case("HelloWorld")
+print(result)  # hello_world
+```
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details. 
